@@ -2,6 +2,22 @@ p{
  padding-top: 20px;
 }
 
+.name{
+    color: white;
+    padding-left: 20px;
+}
+
+.whitelink{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.column{
+    float: left;
+    width: 50%;
+}
+
 .logo{
     padding-top: 20px;
     display: block;
@@ -9,24 +25,17 @@ p{
     margin-right: auto;
 }
 
-.logoVisit{
-    padding-bottom: 30px;
-    padding-top: 20px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.map{
+.portrait{
     padding-top: 40px;
     max-width: 40%;
     max-height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50%;
 }
 
-.mapfooter{
+.portfooter{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -36,10 +45,6 @@ p{
 #tagline{
     padding-top: 20px;
     padding-bottom: 10px;
-}
-
-#histtagline{
-    padding-bottom: 30px;
 }
 
 footer{
@@ -82,16 +87,4 @@ td, th {
   
 tr:nth-child(even) {
     background-color: lightblue;
-}
-
-img{
-    border-radius: 15px;
-}
-
-body{
-    background-color:aliceblue;
-}
-
-#visitbody{
-    background-color:aliceblue;
 }
