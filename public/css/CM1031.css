@@ -1,3 +1,10 @@
+.mainbody{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+}
+
 p{
  padding-top: 20px;
 }
@@ -60,6 +67,13 @@ p{
     transition: max-height 0.2s ease-out;
 }
   
+.aboutimage{
+    padding-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 90%;
+}
 
 .logo{
     padding-top: 20px;
