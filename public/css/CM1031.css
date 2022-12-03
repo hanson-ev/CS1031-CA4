@@ -1,0 +1,97 @@
+p{
+ padding-top: 20px;
+}
+
+.logo{
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logoVisit{
+    padding-bottom: 30px;
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.map{
+    padding-top: 40px;
+    max-width: 40%;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mapfooter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
+#tagline{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#histtagline{
+    padding-bottom: 30px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+
+.pagefooter{
+    padding-top: 30px;
+}
+
+.bordered{
+    padding-top: 10px;
+    border:solid 2px;
+    border-color: darkslateblue;
+}
+
+.small-picture{
+    max-width: 60%;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: 1px solid;
+    border-color: darkslateblue;
+    text-align: left;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: lightblue;
+}
+
+img{
+    border-radius: 15px;
+}
+
+body{
+    background-color:aliceblue;
+}
+
+#visitbody{
+    background-color:aliceblue;
+}
